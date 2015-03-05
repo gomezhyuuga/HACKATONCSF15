@@ -36,7 +36,7 @@ import java.util.List;
 
 /**
  * A login screen that offers login via email/password and via Google+ sign in.
- * <p/>
+ * <p/> ESTE ES UN CAMBIO
  * ************ IMPORTANT SETUP NOTES: ************
  * In order for Google+ sign in to work with your app, you must first go to:
  * https://developers.google.com/+/mobile/android/getting-started#step_1_enable_the_google_api
