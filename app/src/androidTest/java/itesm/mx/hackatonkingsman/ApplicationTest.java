@@ -8,6 +8,7 @@ import android.test.ApplicationTestCase;
  */
 
 //prueba de git
+//prueba de git2
 public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
